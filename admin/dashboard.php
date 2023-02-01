@@ -92,7 +92,7 @@ else
                         </li>
 						 <li> <a href="all_orders.php"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span>Orders</span></a></li>
                          <li> <a href="up_address.php"><i class="fa fa-user" aria-hidden="true"></i><span>Updated address</span></a></li>
-                         <li> <a href="view.php"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span>View</span></a></li>
+                     
                     </ul>
                 </nav>
             
